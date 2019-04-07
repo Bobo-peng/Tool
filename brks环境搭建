@@ -4,4 +4,4 @@ brks环境搭建注意：
 1.thrift版本需要0.11版本，其中编译过程中会有一个变量定义错误，直接注释了可编译通过
 2.在thrift: error while loading shared libraries: libthriftc.so.0: cannot open shared object file  
   需要：$sudo ldconfig
- 
+3.参考https://blog.csdn.net/superye1983/article/details/51190166
